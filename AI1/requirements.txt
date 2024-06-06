@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+Sastrawi
+tensorflow==2.15.0
+keras
+keras_preprocessing
+nltk
